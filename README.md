@@ -81,3 +81,73 @@ digestingthesystem/
 ├── robots.txt
 ├── archive/
 └── spitgold/
+
+---
+
+## Metadata
+
+`digestingthesystem.json` contains experimental artwork metadata intended for compatible blockchain explorers, wallets and archival systems.
+
+The current version may reference externally hosted files.
+
+Future versions may progressively replace those URLs with permanent or on-chain references.
+
+Conceptually:
+
+```text
+living website
+    ↓
+GitHub source archive
+    ↓
+metadata
+    ↓
+permanent media
+    ↓
+XChain FILE actions
+    ↓
+contract / shared-state experiments
+```
+
+---
+
+## Preservation
+
+The project exists in multiple forms intentionally.
+
+**Living version**  
+A mutable version that can continue changing.
+
+**Source archive**  
+Code and assets preserved in this repository.
+
+**Independent build**  
+A more self-contained version intended to survive independently of the main hosting environment.
+
+**On-chain experiments**  
+Selected files, metadata and behaviors may be tested using blockchain-native storage and state.
+
+The different versions are not necessarily replacements for one another.
+
+They are different survival strategies.
+
+---
+
+## Artist
+
+**OOAKOSIMO / Mohini O**
+
+Artist working across moving image, browser-native art, interactive systems, creative coding, cryptoart and digital archives.
+
+The work often develops through experimentation: building systems, breaking them, observing what survives, and turning the failures into part of the work.
+
+---
+
+## Status
+
+Active artwork / archive / laboratory.
+
+Things may move.
+
+Things may break.
+
+The system continues digesting.
