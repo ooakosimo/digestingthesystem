@@ -1,0 +1,57 @@
+
+{
+  "tick": "DIGESTSYS",
+  "name": "DIGESTING THE SYSTEM",
+  "description": "DIGESTING THE SYSTEM is an interactive browser-native archive by OOAKOSIMO about living inside systems: bureaucratic systems, technological systems, economic systems, interfaces, memory, paperwork, absurdity, repetition, failure, digestion and survival. The browser becomes both exhibition space and machine. The work is meant to be entered, clicked through and explored rather than viewed as a fixed image.",
+  "website": "https://ooakosimo.github.io/digestingthesystem/",
+  "categories": [
+    {
+      "type": "main",
+      "data": "NFT"
+    },
+    {
+      "type": "medium",
+      "data": "Interactive Art"
+    },
+    {
+      "type": "technology",
+      "data": "Browser Art"
+    },
+    {
+      "type": "technology",
+      "data": "HTML"
+    },
+    {
+      "type": "genre",
+      "data": "Net Art"
+    }
+  ],
+  "images": [
+    {
+      "data": "https://ooakosimo.github.io/digestingthesystem/digestsys_icon.png",
+      "name": "digestsys_icon.png",
+      "type": "image/png",
+      "title": "DIGESTING THE SYSTEM — Token Icon"
+    },
+    {
+      "data": "https://ooakosimo.github.io/digestingthesystem/digesting-system-sticker-favicon.png",
+      "name": "digesting-system-sticker-favicon.png",
+      "type": "image/png",
+      "title": "DIGESTING THE SYSTEM"
+    }
+  ],
+  "files": [
+    {
+      "data": "https://ooakosimo.github.io/digestingthesystem/",
+      "name": "DIGESTING THE SYSTEM",
+      "type": "text/html",
+      "title": "Enter the Interactive Archive"
+    },
+    {
+      "data": "https://ooakosimo.github.io/digestingthesystem/index.html",
+      "name": "index.html",
+      "type": "text/html",
+      "title": "DIGESTING THE SYSTEM — Main HTML"
+    }
+  ]
+}
